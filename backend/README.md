@@ -1,7 +1,17 @@
-# LinkedIn Posting App - Backend
+# LinkedIn Posting App
 
-## Overview
-This backend service is designed to facilitate posting content to LinkedIn via its API. It is built using Node.js and Express, providing a simple interface for the frontend application to interact with LinkedIn.
+This repository contains a **feature module** from our minor project *Vision AI*. This feature—**LinkedIn Posting App**—was not fully integrated into the main project but is planned for future implementation.
+
+---
+
+## Project Overview
+
+The LinkedIn Posting App allows users to publish posts directly to LinkedIn using the LinkedIn API. It consists of:
+
+* **Backend:** Built with Node.js and Express.
+* **Frontend:** Built with React.
+
+---
 
 ## Project Structure
 ```
